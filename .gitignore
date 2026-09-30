@@ -1,0 +1,20 @@
+# 运行时数据与结果
+Results/
+logs/
+*.log
+.proxy_state.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# 系统
+.DS_Store
+
+# 编辑器
+.idea/
+.vscode/

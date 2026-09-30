@@ -1,0 +1,9 @@
+faker
+requests
+playwright==1.53.0
+patchright
+fastapi>=0.100
+uvicorn>=0.23
+httpx[socks]>=0.26
+pproxy
+PySocks
